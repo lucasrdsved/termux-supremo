@@ -1,0 +1,38 @@
+# Logs
+*.log
+termux-setup.log
+
+# Backups
+.termux-backup-*
+
+# Temporários
+*.tmp
+*.swp
+*~
+
+# Oh My Posh cache
+*.omp.cache
+
+# Node modules (se usar projetos Node)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
