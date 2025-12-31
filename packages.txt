@@ -1,0 +1,1 @@
+git nodejs python clang vim nano tmux curl wget proot openssh zsh htop bat fzf ripgrep exa jq unzip neofetch imagemagick ffmpeg taskwarrior termux-api termux-tools man tree ncdu nmap python-cryptography libxml2-utils pv

@@ -1,0 +1,15 @@
+[user]
+    name = Lucas Rodrigues da Silva
+    email = seu-email@exemplo.com
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    ps = push
+    pl = pull
+    lg = log --oneline --graph --decorate --all
+[core]
+    editor = nano
+[color]
+    ui = auto
