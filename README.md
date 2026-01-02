@@ -9,30 +9,35 @@ Transforme seu Termux em um ambiente de desenvolvimento profissional com uma ún
 ## 📦 O que será instalado:
 
 ### 🐚 Shell & Terminal
+
 - **Zsh** + **Oh My Zsh** com plugins (autosuggestions, syntax highlighting)
 - **Oh My Posh v14.10.0** (versão compatível com Termux)
 - Prompt personalizado e colorido
 
 ### 💻 Linguagens & Runtime
+
 - **Node.js** (última versão estável)
 - **Python 3** com pip
 - **Clang** (compilador C/C++)
 
 ### 🛠️ Ferramentas de Desenvolvimento
+
 - **Git** - Controle de versão
 - **Vim** & **Nano** - Editores de texto
 - **Tmux** - Multiplexador de terminal
 - **SSH** - Acesso remoto
 
 ### ⚡ Utilitários Modernos
+
 - **Bat** - `cat` com syntax highlighting
 - **Ripgrep** - Busca ultrarrápida
 - **Fzf** - Fuzzy finder interativo
-- **Exa** - `ls` moderno com ícones
+- **Eza** - `ls` moderno com ícones
 - **Htop** - Monitor de processos
 - **Neofetch** - Info do sistema
 
 ### 🎨 Extras
+
 - **ImageMagick** - Manipulação de imagens
 - **FFmpeg** - Processamento de vídeo/áudio
 - **Taskwarrior** - Gerenciador de tarefas
@@ -68,16 +73,18 @@ pkg install git -y && git clone https://github.com/lucasrdsved/termux-supremo &&
 Após a instalação, **feche e reabra o Termux** para aplicar as mudanças.
 
 ### Configure o Git:
+
 ```bash
 git config --global user.name "Seu Nome"
 git config --global user.email "seu@email.com"
 ```
 
 ### Explore os comandos:
+
 ```bash
-ll              # Lista arquivos com ícones
+ll # Lista arquivos com ícones
 cat arquivo.txt # Visualiza com syntax highlighting
-neofetch        # Mostra info do sistema
+neofetch # Mostra info do sistema
 ```
 
 Veja mais comandos em [`COMMANDS.md`](COMMANDS.md)
